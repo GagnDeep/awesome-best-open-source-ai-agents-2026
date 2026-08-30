@@ -370,6 +370,19 @@ This list is intentionally GitHub-first. Every tool here has a public `github.co
 
 ---
 
+#### [SandBase Harness](https://github.com/sandbaseai/sandbase-harness)
+> **Description:** SandBase Harness is an Apache-2.0 TypeScript runtime for self-hosted agent workflows. It combines persistent sessions, MCP tools, approval policies, credentials, audit/replay, and selectable local, Docker, Kubernetes, or worker execution backends. It is useful for teams that need an inspectable runtime and control plane rather than a hosted agent API, while the effective isolation boundary remains dependent on the chosen backend and deployment configuration.
+
+- **GitHub:** [github.com/sandbaseai/sandbase-harness](https://github.com/sandbaseai/sandbase-harness)
+- **Stars:** 638 ⭐
+- **Language:** TypeScript
+- **License:** Apache-2.0
+- **Last Commit:** Reviewed from GitHub activity on 2026-08-31
+- **Category:** local-first, self-hosted, agent-runtime
+- **Best for:** self-hosted agent sessions and governed MCP tool execution
+
+---
+
 ### Additional GitHub-Verified Repositories Worth Reviewing
 
 #### [IntentKit](https://github.com/crestalnetwork/intentkit)
