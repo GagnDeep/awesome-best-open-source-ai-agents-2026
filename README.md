@@ -303,6 +303,19 @@ This list is intentionally GitHub-first. Every tool here has a public `github.co
 
 ---
 
+#### [Orkas](https://github.com/Orkas-AI/Orkas)
+> **Description:** Orkas is an open-source, local-first desktop AI workforce. Its Commander coordinates specialist agents through one chat and can run installed coding CLIs as local sessions. The MIT-licensed TypeScript repository provides a desktop assistant stack for users coordinating agent work and local coding sessions.
+
+- **GitHub:** [github.com/Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas)
+- **Stars:** 2,115 ⭐ (2026-09-24 snapshot)
+- **Language:** TypeScript
+- **License:** MIT
+- **Last Commit:** 2026-09-24 ([d0c9d49](https://github.com/Orkas-AI/Orkas/commit/d0c9d492cd3ce2ebe8c4043f8fe69590f0e983cd))
+- **Category:** local-first, desktop-assistant, agent-workforce
+- **Best for:** people coordinating specialist agents and local coding sessions from one desktop workspace
+
+---
+
 ### Specialized & Domain-Specific Agents
 
 #### [R2R](https://github.com/SciPhi-AI/R2R)
