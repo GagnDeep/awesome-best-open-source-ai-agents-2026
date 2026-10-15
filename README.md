@@ -236,6 +236,19 @@ This list is intentionally GitHub-first. Every tool here has a public `github.co
 
 ---
 
+#### [Browser Use](https://github.com/browser-use/browser-use)
+> **Description:** Browser Use is an MIT-licensed Python library that lets an LLM agent operate a real browser: it reads the page, clicks, types and navigates to finish a task described in natural language. It works with OpenAI, Anthropic, Google and local models and can also run as an MCP server. A hosted cloud for browsers is optional; the agent itself is fully open source on GitHub.
+
+- **GitHub:** [github.com/browser-use/browser-use](https://github.com/browser-use/browser-use)
+- **Stars:** 118,090 ⭐
+- **Language:** Python
+- **License:** MIT
+- **Last Commit:** Reviewed from GitHub activity snapshot on 2026-10-15
+- **Category:** browser-agent, web-automation, python
+- **Best for:** natural-language browser automation in Python
+
+---
+
 ### Self-Hosted Platforms & Assistants
 
 #### [LibreChat](https://github.com/danny-avila/LibreChat)
@@ -454,7 +467,7 @@ Many entries here are self-hostable, but the most obvious self-hosted options ar
 Yes. [Open SWE](https://github.com/langchain-ai/open-swe), [Goose](https://github.com/block/goose), [Qwen Code](https://github.com/QwenLM/qwen-code), [Plandex](https://github.com/plandex-ai/plandex), and [Gemini CLI](https://github.com/google-gemini/gemini-cli) are the clearest coding-oriented repos in this list.
 
 ### What is the best open source AI agent for browser automation?
-For browser-specific use cases, start with [Bytebot](https://github.com/bytebot-ai/bytebot), [NanoBrowser](https://github.com/nanobrowser/nanobrowser), [Steel Browser](https://github.com/steel-dev/steel-browser), [Browser Agent](https://github.com/magnitudedev/browser-agent), and [UI-TARS Desktop](https://github.com/bytedance/UI-TARS-desktop). They vary from runtime infrastructure to full multimodal operators.
+For browser-specific use cases, start with [Bytebot](https://github.com/bytebot-ai/bytebot), [NanoBrowser](https://github.com/nanobrowser/nanobrowser), [Steel Browser](https://github.com/steel-dev/steel-browser), [Browser Agent](https://github.com/magnitudedev/browser-agent), [UI-TARS Desktop](https://github.com/bytedance/UI-TARS-desktop), and [Browser Use](https://github.com/browser-use/browser-use). They vary from runtime infrastructure to full multimodal operators.
 
 ### How do I verify an AI agent repo is truly open source?
 Check four things on GitHub: public repository visibility, a readable license file, active code rather than only marketing assets, and whether the core runtime is actually in the repo instead of hidden behind a hosted API. This list filtered out non-GitHub tools and proprietary SaaS-only products for that reason.
