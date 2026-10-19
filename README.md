@@ -372,6 +372,19 @@ This list is intentionally GitHub-first. Every tool here has a public `github.co
 
 ### Additional GitHub-Verified Repositories Worth Reviewing
 
+#### [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)
+> **Description:** Local macOS CLI and stdio MCP payments with foreground owner approval for signing. Supports x402 purchases and EVM, Solana and TRON transfers; runs on Apple Silicon macOS with Node 24. The software is MIT licensed; network and third-party fees may apply.
+
+- **GitHub:** [github.com/nuanu-ai/agent-payment-node](https://github.com/nuanu-ai/agent-payment-node)
+- **Stars:** 0 (verified 2026-10-19)
+- **Language:** TypeScript
+- **License:** MIT
+- **Last Commit:** [2026-10-18T04:14:13Z](https://github.com/nuanu-ai/agent-payment-node/commit/48a62d4e91ea4dcfb450701b5a2b85d2f9f42e7f)
+- **Category:** agent infrastructure, payments, MCP
+- **Best for:** builders who need local agent payments with foreground owner approval
+
+---
+
 #### [IntentKit](https://github.com/crestalnetwork/intentkit)
 > **Description:** IntentKit is a Python project under MIT that focuses on self-hosted agent workflows and intent-driven automation. It is a practical supplemental repo for teams comparing workflow-heavy agents and execution systems.
 
