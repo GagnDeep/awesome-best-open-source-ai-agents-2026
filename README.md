@@ -303,6 +303,19 @@ This list is intentionally GitHub-first. Every tool here has a public `github.co
 
 ---
 
+#### [Kortix](https://github.com/kortix-ai/suna)
+> **Description:** Kortix describes itself as the open-source AI Operating System: agents, tool grants, skills and company memory are configuration files in a repository the team hosts, and each session runs on its own cloud computer. Two things make it worth a place on this list beyond the README. First, the licence is Elastic License 2.0, which GitHub reports as `Other` (source-available, not OSI-approved), so teams that require an OSI licence should read it before adopting. Second, the deployment shape is unusual: the config lives in git, so a change to an agent's permissions arrives as a reviewable change request rather than a click in a settings panel. Actively developed, 20k+ stars, self-hosted or managed.
+
+- **GitHub:** [github.com/kortix-ai/suna](https://github.com/kortix-ai/suna)
+- **Stars:** 20,289 ⭐
+- **Language:** TypeScript
+- **License:** Elastic License 2.0 (GitHub shows `Other`, source-available, not OSI-approved)
+- **Last Commit:** 2026-10-21
+- **Category:** operating system, self-hosted, agents
+- **Best for:** teams that want agent permissions and memory versioned in their own git repository and runnable in their own infrastructure
+
+---
+
 ### Specialized & Domain-Specific Agents
 
 #### [R2R](https://github.com/SciPhi-AI/R2R)
