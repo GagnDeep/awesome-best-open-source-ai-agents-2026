@@ -236,6 +236,19 @@ This list is intentionally GitHub-first. Every tool here has a public `github.co
 
 ---
 
+#### [agent-qa](https://github.com/vostride/agent-qa)
+> **Description:** agent-qa by vostride runs natural-language regression tests for web, Android and iOS through CLI and MCP. Its advanced memidex memory retains validated app knowledge, while evidence-gated self-improvement refines tests from run results. Recorded verdicts, steps and evidence help coding agents verify fixes. Requires Node.js 24+ and a model provider; model/API costs may apply.
+
+- **GitHub:** [github.com/vostride/agent-qa](https://github.com/vostride/agent-qa)
+- **Stars:** 913 ⭐ (verified 2026-10-31)
+- **Language:** TypeScript
+- **License:** Other ([FSL-1.1-ALv2](https://github.com/vostride/agent-qa/blob/main/LICENSE.md))
+- **Last Commit:** [2026-10-31](https://github.com/vostride/agent-qa/commit/1b8a9daf46dd0ec1b2c4503d2f1c0e26b0002293)
+- **Category:** browser-agent, software-testing, mcp
+- **Best for:** natural-language web and mobile regression testing with persistent app knowledge and recorded evidence
+
+---
+
 ### Self-Hosted Platforms & Assistants
 
 #### [LibreChat](https://github.com/danny-avila/LibreChat)
