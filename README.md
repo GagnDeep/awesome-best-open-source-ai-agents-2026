@@ -171,6 +171,19 @@ This list is intentionally GitHub-first. Every tool here has a public `github.co
 
 ### Browser & Computer-Use Agents
 
+#### [Browser Use](https://github.com/browser-use/browser-use)
+> **Description:** Browser Use is an MIT-licensed Python library for building AI agents that operate real browsers. Developers give an agent a task and connect a language model to browser actions for navigation, form filling, and structured data extraction. The library can run locally with a local browser and a chosen model, making it useful for teams that want to inspect and customize their browser automation. The open-source library is separate from the optional hosted Browser Use Cloud service.
+
+- **GitHub:** [github.com/browser-use/browser-use](https://github.com/browser-use/browser-use)
+- **Stars:** approximately 121,600 ⭐ (reviewed 2026-11-21)
+- **Language:** Python
+- **License:** MIT
+- **Last Commit:** [GitHub activity](https://github.com/browser-use/browser-use/commits/main/) (reviewed 2026-11-21)
+- **Category:** browser-agent, web-automation, python
+- **Best for:** building customizable browser agents for multi-step web tasks and structured extraction
+
+---
+
 #### [Bytebot](https://github.com/bytebot-ai/bytebot)
 > **Description:** Bytebot is a self-hosted AI desktop agent with strong browser and computer-use positioning. The repository README and GitHub description make it clear that the project focuses on controlling a user interface rather than only generating text, which is important if your automation target lives inside a browser or desktop workflow. It is Apache-2.0 licensed and uses TypeScript, which lowers the barrier for web teams that want to inspect or extend it. Bytebot is one of the clearer GitHub-native options for people searching for an open source alternative to proprietary computer-use agents.
 
