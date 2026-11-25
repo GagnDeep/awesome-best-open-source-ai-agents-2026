@@ -303,6 +303,19 @@ This list is intentionally GitHub-first. Every tool here has a public `github.co
 
 ---
 
+#### [Open Agent API](https://github.com/jiangxingfan1-coder/Open-Agent-API)
+> **Description:** Open Agent API is a self-hosted gateway for calling agents from applications through SDK-compatible APIs. It can connect configured agents over ACP and exposes task and approval workflows. Its quickstart includes a deterministic offline sample; native agents can inherit the host's permissions.
+
+- **GitHub:** [github.com/jiangxingfan1-coder/Open-Agent-API](https://github.com/jiangxingfan1-coder/Open-Agent-API)
+- **Stars:** 5 ⭐ (2026-11-25)
+- **Language:** TypeScript
+- **License:** Apache-2.0
+- **Last Commit:** [56c7794](https://github.com/jiangxingfan1-coder/Open-Agent-API/commit/56c779464c112d8393922060cc787ad26d476210) (2026-11-25)
+- **Category:** self-hosted, agent-gateway, ACP
+- **Best for:** developers adding agent-backed tasks to existing applications
+
+---
+
 ### Specialized & Domain-Specific Agents
 
 #### [R2R](https://github.com/SciPhi-AI/R2R)
